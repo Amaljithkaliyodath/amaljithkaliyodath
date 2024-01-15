@@ -8,10 +8,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **amaljithkaliyodath1@gmail.com**
+- **www.linkedin.com/in/amaljith-kaliyodath**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/amaljith k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amaljith k" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
